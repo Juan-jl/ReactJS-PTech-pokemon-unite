@@ -1,1 +1,1 @@
-Infelizmente eu não consegui fazer o upload da pasta "node_modules" pois o GitHub desktop não reconhecia a mesma. Eu consegui fazer o upload da pasta somente após alterar seu nome para "node_moduless", com um "s" a mais no final.
+Olá, infelizmente eu não consegui fazer o upload da pasta "node_modules" pois o GitHub desktop não reconhecia a mesma. Eu consegui fazer o upload da pasta somente após alterar seu nome para "node_moduless", com um "s" a mais no final.
